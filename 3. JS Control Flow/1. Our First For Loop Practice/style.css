@@ -1,0 +1,13 @@
+h1 {
+  color: #4a90e2;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#chorus {
+  font-size: 18px;
+  color: #333;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 20px;
+}

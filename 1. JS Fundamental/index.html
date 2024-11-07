@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood-Based Background</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Choose Your Mood</h1>
+        <select id="moodSelector" onchange="changeBackground()">
+            <option value="">--Select Mood--</option>
+            <option value="happy">Happy</option>
+            <option value="sad">Sad</option>
+            <option value="excited">Excited</option>
+            <option value="relaxed">Relaxed</option>
+            <option value="tired">Tired</option>
+        </select>
+        <div id="message"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

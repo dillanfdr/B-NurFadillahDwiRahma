@@ -1,0 +1,13 @@
+h1 {
+  color: #4CAF50;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#countdown {
+  font-size: 24px;
+  color: #333;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 20px;
+}
